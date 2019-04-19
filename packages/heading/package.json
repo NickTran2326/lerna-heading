@@ -28,9 +28,5 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  },
-  "gitHead": "ccc6bd9f8ef357ed69567c5e0fbece4e9fb4ef8a"
+  "gitHead": "532894d892ddbd2cbc704ff0bf202f72f3ba2e06"
 }
