@@ -1,7 +1,7 @@
 {
   "name": "root",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.6",
   "devDependencies": {
     "@types/node": "^11.13.5",
     "lerna": "^3.13.2",
