@@ -6,6 +6,7 @@
   "homepage": "https://github.com/NickTran2326/lerna-heading#readme",
   "license": "MIT",
   "main": "lib/heading.js",
+  "typings": "lib/heading.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,6 +14,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "publish"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NickTran2326/lerna-heading.git"
