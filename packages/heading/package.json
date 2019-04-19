@@ -12,7 +12,7 @@
     "test": "__tests__"
   },
   "files": [
-    "lib", "src"
+    "lib"
   ],
   "private": true,
   "repository": {
@@ -20,6 +20,7 @@
     "url": "git+https://github.com/NickTran2326/lerna-heading.git"
   },
   "scripts": {
+    "transpile": "babel src -d dist --ignore '**/*.spec.js,**/*.stories.js'",
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
@@ -29,6 +30,19 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "env": {
+      "test": {
+        "plugins": [
+          "transform-es2015-modules-commonjs"
+        ]
+      }
+    }
   },
   "gitHead": "3be51cc97f97c46f67bcc5ed4b072e12cc308ccf"
 }
