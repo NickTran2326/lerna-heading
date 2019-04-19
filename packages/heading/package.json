@@ -27,5 +27,10 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
-  }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "ccc6bd9f8ef357ed69567c5e0fbece4e9fb4ef8a"
 }
