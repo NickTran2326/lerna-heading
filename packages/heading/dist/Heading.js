@@ -38,7 +38,7 @@ function (_react_1$Component) {
   _createClass(Heading, [{
     key: "render",
     value: function render() {
-      return React.createElement("div", null, React.createElement("p", null, "Nothing at here!"));
+      return React.createElement("div", null, React.createElement("p", null, "Nothing at here! hehe"));
     }
   }]);
 
