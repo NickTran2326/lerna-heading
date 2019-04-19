@@ -14,9 +14,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "publish"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NickTran2326/lerna-heading.git"
@@ -32,5 +29,5 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
-  "gitHead": "eba17abb71fe838e0478ca3ccd27da4860a4627b"
+  "gitHead": "3be51cc97f97c46f67bcc5ed4b072e12cc308ccf"
 }
