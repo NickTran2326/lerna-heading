@@ -9,7 +9,7 @@
   "typings": "lib/heading.d.ts",
   "module": "src/Heading.tsx",
   "directories": {
-    "lib": "src",
+    "lib": "lib",
     "test": "__tests__"
   },
   "files": [
