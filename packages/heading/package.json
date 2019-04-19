@@ -1,5 +1,5 @@
 {
-  "name": "heading",
+  "name": "lerna-heading",
   "version": "0.0.3",
   "description": "lerna heading demo",
   "author": "ttnguyen <tuannguyen.tran@orientsoftware.com>",
@@ -28,5 +28,5 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
-  "gitHead": "532894d892ddbd2cbc704ff0bf202f72f3ba2e06"
+  "gitHead": "4f28d5504b0b57a3eb234e0b82c3b02be5022179"
 }
