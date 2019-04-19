@@ -14,7 +14,6 @@
   "files": [
     "lib"
   ],
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NickTran2326/lerna-heading.git"
