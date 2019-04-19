@@ -4,7 +4,7 @@ class Heading extends Component {
     render() {
         return (
             <div>
-                <p>Nothing at here!</p>
+                <p>Nothing at here! hehe</p>
             </div>
         );
     }
