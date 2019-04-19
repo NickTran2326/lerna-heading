@@ -7,13 +7,15 @@
   "license": "MIT",
   "main": "lib/heading.js",
   "typings": "lib/heading.d.ts",
+  "module": "src/Heading.tsx",
   "directories": {
-    "lib": "lib",
+    "lib": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "lib", "src"
   ],
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NickTran2326/lerna-heading.git"
