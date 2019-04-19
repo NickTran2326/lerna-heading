@@ -6,7 +6,6 @@
   "homepage": "https://github.com/NickTran2326/lerna-heading#readme",
   "license": "MIT",
   "main": "lib/heading.js",
-  "typings": "lib/heading.d.ts",
   "module": "src/Heading.tsx",
   "directories": {
     "lib": "lib",
